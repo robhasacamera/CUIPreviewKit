@@ -8,5 +8,5 @@ CUIExpandableButton supports Swift Package Manager. To use it the following to y
 
 ```
 dependencies: [
-    .package(name: "CUIPreviewKit", url: "https://github.com/robhasacamera/CUIPreviewKit.git", from: "0.1.0")
+    .package(name: "CUIPreviewKit", url: "https://github.com/robhasacamera/CUIPreviewKit.git", from: "0.1.1")
 ],
