@@ -1,4 +1,4 @@
-# CUIPreviewKit
+# CrystalPreviewKit
 
 Simple classes that make it easier to display previews.
 
@@ -8,5 +8,5 @@ CUIPreviewKit supports Swift Package Manager. To use it the following to your `P
 
 ```
 dependencies: [
-    .package(name: "CUIPreviewKit", url: "https://github.com/robhasacamera/CUIPreviewKit.git", from: "0.1.2")
+    .package(name: "CUIPreviewKit", url: "https://github.com/robhasacamera/CUIPreviewKit.git", from: "0.2.0")
 ],
